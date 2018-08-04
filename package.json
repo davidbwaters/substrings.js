@@ -1,0 +1,13 @@
+{
+  "name": "substrings",
+  "version": "1.0.0",
+  "description": "Looks for substrings found between two given delimiting strings. Find all results and return an array or find the first result and return it.",
+  "main": "dist/substrings.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "repository": "https://github.com/davidbwaters/substrings.js",
+  "author": "David B. Waters",
+  "license": "MIT",
+  "private": false
+}
